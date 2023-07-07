@@ -1,6 +1,4 @@
-# Quran-Web3.NFT
-
-The Noble Quran in Decentralized Web &amp; NFT
+The Noble Quran in Decentralized Web &amp; NFT | quran-web3.nft - Quran Web3 NFT Blockchain Decentralized Knowledge-sharing Quranic studies Smart contract Authentic
 
 ## Getting started
 *  Use this CID to attach to your web3 Domain: bafybeietysyq2gokj3wupn2pgkn6tvotqh4fvqotxgcrm2r7wpdcugsv4m
