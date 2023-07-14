@@ -5,7 +5,7 @@ The Noble Quran in Decentralized Web &amp; NFT | quran-web3.nft - Quran Web3 NFT
 *  You can also use this repository on any web hosting.
 
 ## Update History
-1.  Quran-Web3.NFT First Release (06-07-2023):
+1.  Quran-Web3.NFT First Release (05-07-2023):
     *  CID             : bafybeietysyq2gokj3wupn2pgkn6tvotqh4fvqotxgcrm2r7wpdcugsv4m
     *  IPFS URL        : ipfs://bafybeietysyq2gokj3wupn2pgkn6tvotqh4fvqotxgcrm2r7wpdcugsv4m
     *  Gateway URL     : https://ipfs.io/ipfs/bafybeietysyq2gokj3wupn2pgkn6tvotqh4fvqotxgcrm2r7wpdcugsv4m
