@@ -6,13 +6,13 @@ The Noble Quran in Decentralized Web &amp; NFT | quran-web3.nft - Quran Web3 NFT
 
 ## Update History
   1.  Quran-Web3.NFT First Release (06-07-2023):
-      CID             : bafybeietysyq2gokj3wupn2pgkn6tvotqh4fvqotxgcrm2r7wpdcugsv4m
-      IPFS URL        : ipfs://bafybeietysyq2gokj3wupn2pgkn6tvotqh4fvqotxgcrm2r7wpdcugsv4m
-      Gateway URL     : https://ipfs.io/ipfs/bafybeietysyq2gokj3wupn2pgkn6tvotqh4fvqotxgcrm2r7wpdcugsv4m
-  2.  Quran-Web3.NFT Minor Update on Donation page (14-07-2023):
-      CID             : 
-      IPFS URL        : ipfs://
-      Gateway URL     : https://ipfs.io/ipfs/
+      *  CID             : bafybeietysyq2gokj3wupn2pgkn6tvotqh4fvqotxgcrm2r7wpdcugsv4m
+      *  IPFS URL        : ipfs://bafybeietysyq2gokj3wupn2pgkn6tvotqh4fvqotxgcrm2r7wpdcugsv4m
+      *  Gateway URL     : https://ipfs.io/ipfs/bafybeietysyq2gokj3wupn2pgkn6tvotqh4fvqotxgcrm2r7wpdcugsv4m
+  3.  Quran-Web3.NFT Minor Update on Donation page (14-07-2023):
+      *  CID             : 
+      *  IPFS URL        : ipfs://
+      *  Gateway URL     : https://ipfs.io/ipfs/
 
 ## Demo
 *  <a href="https://quran--web3-crypto.ipns.dweb.link/" target="_blank">Web3 Domain: quran-web3.nft</a> or type <b>quran-web3.nft</b> in any browser that supports web3 domain like <b>Brave or Opera</b>.
