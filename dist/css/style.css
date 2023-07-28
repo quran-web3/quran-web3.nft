@@ -223,7 +223,7 @@ button,input,select,textarea,label{font-size:20px;line-height:30px}
 .button-sm.button-shadow::before{box-shadow:0 4px 16px rgba(255,255,255,0.25)}
 .button-sm.button-shadow:hover::before{box-shadow:0 4px 16px rgba(255,255,255,0.35)}
 .button-primary{color:#fff !important;background-color:#535FD7}
-.button-primary:hover{background:#5763d8}
+.button-primary:hover{background:#535FD7}
 .button-primary.button-shadow::before{box-shadow:0 8px 16px rgba(83,95,215,0.25);mix-blend-mode:normal}
 .button-primary.button-shadow:hover::before{box-shadow:0 8px 16px rgba(83,95,215,0.35)}
 .button-primary .button-sm.button-shadow::before{box-shadow:0 4px 16px rgba(83,95,215,0.25)}
