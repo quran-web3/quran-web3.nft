@@ -18,7 +18,8 @@ The Noble Quran in Decentralized Web &amp; NFT | quran-web3.nft - Quran Web3 NFT
 *  Website Preview (Web2) Github Page: <a href="https://quran-web3.github.io/quran-web3.nft/">https://quran-web3.github.io/quran-web3.nft/</a>
 
 ## Web3 Decentralized Website
-*  <a href="https://quran--web3-crypto.ipns.dweb.link/">Web3 Domain: quran-web3.nft</a> or type <b>quran-web3.nft</b> in any browser that supports web3 domain like <b>Brave or Opera</b>.
+*  Web3 Domain: quran-web3.nft / quran-web3.crypto or type <b><u>quran-web3.nft</u> / <u>quran-web3.crypto</u></b> in any browser that supports web3 domain like <b>Brave or Opera</b>.
+*  DWEB IPNS Link: <a href="https://dweb.link/ipns/quran-web3.crypto"> quran-web3.crypto </a>
 *  IPFS CID: <a href="https://bafybeihnern7lcpr6mbpupmfwjaokdje3ryouwecujviv342z7n4m6ama4.ipfs.dweb.link/">bafybeietysyq2gokj3wupn2pgkn6tvotqh4fvqotxgcrm2r7wpdcugsv4m</a>
 
 ## Get Your Web3 Domain
