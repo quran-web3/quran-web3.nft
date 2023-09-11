@@ -97,4 +97,6 @@
 /* bismillah */
 @font-face{font-family:"bismillah";src:url("https://quran-web3.github.io/quran-web3.nft/dist/fonts/bismillah-7ac73744cb8bcb8fb87dae1714c7ac3f492224b6d8a640311441d368e47093bd.ttf")format("truetype");font-weight:700;font-style:normal;font-display:swap}
 /* numbering */
-@font-face {font-family: "KFGQPC";src:url("https://quran-web3.github.io/quran-web3.nft/dist/fonts/24795d84c015a4e8895cd995ef838852.ttf")format("truetype");font-weight:700;font-style:normal;font-display:swap}
+@font-face {font-family:"KFGQPC";src:url("https://quran-web3.github.io/quran-web3.nft/dist/fonts/24795d84c015a4e8895cd995ef838852.ttf")format("truetype");font-weight:700;font-style:normal;font-display:swap}
+/* me_quran */
+@font-face {font-family:"me_quran";src:url("https://quran-web3.github.io/quran-web3.nft/dist/fonts/me_quran.ttf")format("truetype");font-weight:700;font-style:normal;font-display:swap}
