@@ -86,14 +86,6 @@
   src: url('https://quran-web3.github.io/quran-web3.nft/dist/fonts/sura_names.woff2') format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
-/* names */
-@font-face {
-  font-family: 'names';
-  font-style: normal;
-  font-weight: 700;
-  src: url('https://quran-web3.github.io/quran-web3.nft/dist/fonts/AllahNames.ttf') format('truetype');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
 /* bismillah */
 @font-face{font-family:"bismillah";src:url("https://quran-web3.github.io/quran-web3.nft/dist/fonts/bismillah-7ac73744cb8bcb8fb87dae1714c7ac3f492224b6d8a640311441d368e47093bd.ttf")format("truetype");font-weight:700;font-style:normal;font-display:swap}
 /* numbering */
