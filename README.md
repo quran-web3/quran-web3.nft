@@ -14,6 +14,8 @@ The Noble Quran in Decentralized Web &amp; NFT | quran-web3.nft - Quran Web3 NFT
     *  IPFS URL        : ipfs://bafybeihnern7lcpr6mbpupmfwjaokdje3ryouwecujviv342z7n4m6ama4
     *  Gateway URL     : https://dweb.link/ipfs/bafybeihnern7lcpr6mbpupmfwjaokdje3ryouwecujviv342z7n4m6ama4
 
+3.  <a href="https://github.com/quran-web3/quran-web3.nft/releases">More update info >>>>>>>></a>
+
 ## Web2 Preview
 *  Website Preview (Web2) Github Page: <a href="https://quran-web3.github.io/quran-web3.nft/">https://quran-web3.github.io/quran-web3.nft/</a>
 
