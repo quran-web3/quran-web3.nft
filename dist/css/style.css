@@ -1,7 +1,7 @@
 html{line-height:0.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}
 body{margin:0}
 article,aside,footer,header,nav,section{display:block}
-h1{text-align:right;}
+h1{text-align:justify;direction:rtl;width:100%;}
 figcaption,figure,main{display:block}
 figure{margin:1em 40px}
 hr{box-sizing:content-box;height:0;overflow:visible}
