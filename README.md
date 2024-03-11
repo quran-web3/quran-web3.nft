@@ -1,11 +1,11 @@
 The Noble Quran in Decentralized Web &amp; NFT | quran-web3.nft - Quran Web3 NFT Blockchain Decentralized Knowledge-sharing Quranic studies Smart contract Authenticity
 
 ## Getting started
-*  Use this IPFS CID to attach to your web3 Domain: <b>bafybeihbxzwiz5fx4fd7uqljya26sicsea4veaszoojemcxonwravknbxq</b>
+*  Use this IPFS CID to attach to your web3 Domain: <b>bafybeihq4rskqsvtdgv5wsnbp7m56tjkowvme3blmaernycp2perima3mm</b>
 
 ## Web3 Decentralized Website
 *  Web3 Domain: <b><u>quran-web3.nft</u> / <u>quran-web3.crypto</u></b> Type in any browser that supports web3 domain like <b>Brave or Opera</b>.
-*  IPFS CID: <a href="https://cloudflare-ipfs.com/ipfs/bafybeihbxzwiz5fx4fd7uqljya26sicsea4veaszoojemcxonwravknbxq/">bafybeihbxzwiz5fx4fd7uqljya26sicsea4veaszoojemcxonwravknbxq</a>
+*  IPFS CID: <a href="https://cloudflare-ipfs.com/ipfs/bafybeihq4rskqsvtdgv5wsnbp7m56tjkowvme3blmaernycp2perima3mm/">bafybeihq4rskqsvtdgv5wsnbp7m56tjkowvme3blmaernycp2perima3mm</a>
 
 ## Update History
 <###>
@@ -20,6 +20,11 @@ The Noble Quran in Decentralized Web &amp; NFT | quran-web3.nft - Quran Web3 NFT
     *  CID             : bafybeihbxzwiz5fx4fd7uqljya26sicsea4veaszoojemcxonwravknbxq
     *  IPFS URL        : ipfs://bafybeihbxzwiz5fx4fd7uqljya26sicsea4veaszoojemcxonwravknbxq
     *  Gateway URL     : https://ipfs.io/ipfs/bafybeihbxzwiz5fx4fd7uqljya26sicsea4veaszoojemcxonwravknbxq
+
+6. Quran-Web3.NFT Minor Update on (12-03-2024):
+    *  CID             : bafybeihq4rskqsvtdgv5wsnbp7m56tjkowvme3blmaernycp2perima3mm
+    *  IPFS URL        : ipfs://bafybeihq4rskqsvtdgv5wsnbp7m56tjkowvme3blmaernycp2perima3mm
+    *  Gateway URL     : https://cf-ipfs.com/ipfs/bafybeihq4rskqsvtdgv5wsnbp7m56tjkowvme3blmaernycp2perima3mm
 
 #.  <a href="https://github.com/quran-web3/quran-web3.nft/releases">More update info >>>>>>>></a>
 
